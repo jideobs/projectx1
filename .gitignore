@@ -1,0 +1,6 @@
+virtualenv
+
+dist
+*__pycache__*
+projectx1_jideobs*
+projectx1.egg-info

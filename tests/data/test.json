@@ -1,0 +1,29 @@
+{
+    "url": "https://www.xyzwebsite.ng",
+    "page_query_attr": {
+        "query_param_name": "page",
+        "start_page": 1,
+        "end_page": 10
+    },
+    "data_html_attr": {
+        "element_name": "div",
+        "row_html_attr": "row-data",
+        "fields": [
+            {
+                "element_name": "div",
+                "name": "price",
+                "class_name": "price"
+            },
+            {
+                "element_name": "div",
+                "name": "title",
+                "class_name": "title"
+            },
+            {
+                "element_name": "div",
+                "name": "description",
+                "class_name": "description"
+            }
+        ]
+    }
+}
